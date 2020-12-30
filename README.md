@@ -1,5 +1,4 @@
 # Spanish-Level-Checker
-## Welcome
 For this project I set out to create a machine learning model to help users predict the CEFR* level of a Spanish text. 
 
 The idea arose after reading many mind-numbing stories about cats/Jose's trip to the shops and wanting to learn Spanish through
